@@ -1,0 +1,15 @@
+.contact-link {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.6);
+  transition: color 250ms var(--cubic-bezier);
+  &:hover,
+  &:focus {
+    color: var(--white-color);
+  }
+}
