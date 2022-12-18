@@ -1029,8 +1029,6 @@ body {
 
 .close-icon {
   fill: #212121;
-  width: 100%;
-  height: 100%;
   -webkit-transition: fill 250ms var(--cubic-bezier);
   transition: fill 250ms var(--cubic-bezier);
 }
